@@ -173,3 +173,26 @@ align items
   align-items: center;
 }
  */
+
+/*
+align-content
+.container{
+  flex-wrap: wrap;
+  align-content: start;
+}
+ */
+
+/*
+align-content
+.container{
+  flex-wrap: wrap;
+  align-content: flex-end;
+}
+ */
+
+/*
+.container{
+  flex-wrap: wrap;
+  align-content: center;
+}
+*/
