@@ -196,3 +196,22 @@ align-content
   align-content: center;
 }
 */
+
+/*
+align-content
+.container{
+  flex-wrap: wrap;
+  align-content: space-between;
+}
+*/
+
+/*
+gap
+.container{
+  flex-direction: column;
+  gap:30px
+}
+.box{
+  height: 20vh;
+}
+*/
