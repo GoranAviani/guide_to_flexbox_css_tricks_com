@@ -215,3 +215,17 @@ gap
   height: 20vh;
 }
 */
+
+/*
+row-gap
+.container{
+  flex-direction: column;
+  row-gap:80px
+}
+.box{
+  height: 20vh;
+}
+*/
+
+
+
