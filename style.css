@@ -70,3 +70,17 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 /* flex flow
 .container{flex-flow: column wrap}
  */
+
+
+/*
+justify content
+.box{
+  width: 5%;
+}
+
+
+.container{
+  justify-content: start;
+}
+ */
+
