@@ -414,12 +414,13 @@ row-gap
 /*
 column-gap ->
  */
-.container{
-  flex-direction: row;
-  column-gap:80px
+.container {
+    flex-direction: row;
+    column-gap: 80px
 }
-.box{
-  height: 20vh;
+
+.box {
+    height: 20vh;
 }
 
 
