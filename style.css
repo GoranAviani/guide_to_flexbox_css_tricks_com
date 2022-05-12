@@ -158,3 +158,18 @@ align content TODO
   align-content: flex-end;
 }
 */
+
+
+/*
+align items
+.container{
+  align-items: flex-end;
+}
+*/
+
+/*
+align items
+.container{
+  align-items: center;
+}
+ */
