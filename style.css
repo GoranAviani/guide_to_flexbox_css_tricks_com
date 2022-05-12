@@ -84,3 +84,66 @@ justify content
 }
  */
 
+
+/*
+justify content
+
+.container{
+  justify-content: center;
+}
+.box{
+  width: 5%;
+}
+
+*/
+
+/*
+justify content
+
+.container{
+  justify-content: end;
+}
+.box{
+  width: 5%;
+}
+*/
+
+
+/*
+justify content
+
+ */
+
+/*
+justify content
+
+.container{
+  justify-content: space-between;
+}
+.box{
+  width: 5%;
+}
+*/
+
+/*
+justify content
+
+.container{
+  justify-content: space-around;
+}
+.box{
+  width: 5%;
+}
+*/
+
+
+/* tryout 1
+.container{
+  justify-content: flex-start;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+.box{
+  width: 5%;
+}
+*/
